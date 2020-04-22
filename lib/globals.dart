@@ -1,0 +1,21 @@
+import 'package:wcmcproject/data/allViewData.dart';
+import 'package:wcmcproject/data/fifth_slot.dart';
+import 'package:wcmcproject/data/first_slot.dart';
+import 'package:wcmcproject/data/fourth_slot.dart';
+import 'package:wcmcproject/data/second_slot.dart';
+import 'package:wcmcproject/data/sixth_slot.dart';
+import 'package:wcmcproject/data/third_slot.dart';
+import 'package:wcmcproject/data/allTimeTable.dart';
+
+String day;
+String time;
+String Class2;
+String classOpt;
+timeTableView data8;
+dataView1 data7;
+dataResponse1 data1;
+dataResponse2 data2;
+dataResponse3 data3;
+dataResponse4 data4;
+dataResponse5 data5;
+dataResponse6 data6;
